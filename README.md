@@ -5,6 +5,7 @@ A fire animation using Adafruit_NeoMatrix on some WS2812 NeoPixels.
 Based on the code from [giladaya/arduino-led-matrix](https://github.com/giladaya/arduino-led-matrix).
 
 ![Flames](https://lh3.googleusercontent.com/MSkE2pxTUxteYAEgIxBJRtgW6qmuGUDJoiqxq_rlexAT5D1JRes=w427-h320-no)
+![Animation](http://cdn.makeagif.com/media/9-08-2015/gMlZU1.gif)
 
 https://youtu.be/8gC5C1SwjsY
 
